@@ -72,33 +72,33 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "CS-Chief Gym & Fitness Web",
+    des: "Discover the ultimate fitness experience with our immersive and interactive gym and fitness platform.",
+    img: "/p1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "/ui.earth.com",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
+    title: "Sarhad University App",
+    des: "Enhance your university experience with the Sarhad University App. Stay connected and informed seamlessly.",
+    img: "/p2.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/ui.yoom.com",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title: "Online Qurtaba Shoes Store App",
+    des: "Shop the latest footwear trends with ease on the Online Qurtaba Shoes Store App. Stylish, affordable, and just a click away!",
+    img: "/p3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "/ui.aiimg.com",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "FOODIE Food App",
+    des: "Discover delicious recipes and order your favorite meals effortlessly with the FOODIE Foods App.",
+    img: "/p4.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
   },
@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Hammad's commitment to excellence is truly remarkable. His technical skills are matched only by his ability to listen, understand, and bring a vision to life. Hammad delivered beyond my expectations, and I couldn't be happier with the results!",
+    name: "Sarah Thompson",
+    title: "Founder of CreativeEdge Studios",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Hammad's talent and professionalism are unmatched. From concept to execution, he demonstrated exceptional skill and a keen eye for detail. The final product exceeded all expectations, and I would absolutely recommend Hammad for any project.",
+    name: "David Ramirez",
+    title: "Marketing Manager at Horizon Ventures",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Hammad has been a game-changer. His expertise and creativity in web development shine through every detail. Hammad's ability to turn ideas into stunning, functional designs is unparalleled. If you're looking for someone who goes above and beyond, Hammad is your go-to developer.",
+    name: "Emily Carter",
+    title: "CEO of NextWave Innovations",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Hammad was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Hammad's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Hammad is the ideal partner.",
+    name: "Ryan Patel",
+    title: "Lead Developer at TechNova Solutions",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Hammad is a rare find in the world of developers. His innovative approach, attention to detail, and passion for creating seamless user experiences are extraordinary. Collaborating with him was effortless and inspiring. Highly recommended!",
+    name: "Sophia Jenkins",
+    title: "Product Designer at Visionary Creations",
   },
 ];
 
